@@ -68,32 +68,6 @@
         "French"
       ],
       "address": "Dwarka"
-    },
-    {
-      "id": "f52a",
-      "firstName": "priyank",
-      "lastName": "patel",
-      "email": "priyankpatel@gmail.com",
-      "password": "Priyanka@12345",
-      "phone": "9292929250",
-      "gender": "Female",
-      "languages": [
-        "English"
-      ],
-      "address": "Mumbai, MH"
-    },
-    {
-      "firstName": "vivek",
-      "lastName": "dodiya",
-      "email": "vivekdodiya@gmail.com",
-      "password": "Vivek@123",
-      "phone": "9090909091",
-      "gender": "Male",
-      "languages": [
-        "Hindi"
-      ],
-      "address": "Kolkata",
-      "id": "4a37"
     }
   ]
 }
