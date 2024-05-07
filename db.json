@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "firstName": "Dhaval",
+      "lastName": "Vaghela",
+      "email": "vd@gmail.com",
+      "password": "Limbdi",
+      "phone": "9292929292",
+      "gender": "Male",
+      "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "Hindi"
+      ],
+      "address": "Limbdi",
+      "id": "1"
+    },
+    {
+      "firstName": "parth",
+      "lastName": "parekh",
+      "email": "vd2@gmail.com",
+      "password": "vd@12453",
+      "phone": "9292929291",
+      "gender": "Female",
+      "languages": [
+        "english",
+        "hindi"
+      ],
+      "address": "Rajkot",
+      "id": "2"
+    },
+    {
+      "firstName": "Kinshuk",
+      "lastName": "dodiya",
+      "email": "kinshuk@gmail.com",
+      "password": "Kinshuk@123",
+      "phone": "8899329898",
+      "gender": "Male",
+      "languages": [
+        "Spanish"
+      ],
+      "address": "Rajasthan",
+      "id": "102b"
+    },
+    {
+      "firstName": "Deepika",
+      "lastName": "Gaikwad",
+      "email": "deepka@gmail.com",
+      "password": "Deepika@123",
+      "phone": "9292929279",
+      "gender": "Female",
+      "languages": [
+        "Spanish"
+      ],
+      "address": "Vadodara",
+      "id": "654e"
+    },
+    {
+      "id": "a552",
+      "firstName": "Arti",
+      "lastName": "mali",
+      "email": "arhaan@gmail.com",
+      "password": "Arhaan@123",
+      "phone": "9228236788",
+      "gender": "Female",
+      "languages": [
+        "French"
+      ],
+      "address": "Dwarka"
+    },
+    {
+      "id": "f52a",
+      "firstName": "priyank",
+      "lastName": "patel",
+      "email": "priyankpatel@gmail.com",
+      "password": "Priyanka@12345",
+      "phone": "9292929250",
+      "gender": "Female",
+      "languages": [
+        "English"
+      ],
+      "address": "Mumbai, MH"
+    },
+    {
+      "firstName": "vivek",
+      "lastName": "dodiya",
+      "email": "vivekdodiya@gmail.com",
+      "password": "Vivek@123",
+      "phone": "9090909091",
+      "gender": "Male",
+      "languages": [
+        "Hindi"
+      ],
+      "address": "Kolkata",
+      "id": "4a37"
+    }
+  ]
+}
